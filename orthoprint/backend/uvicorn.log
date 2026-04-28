@@ -1,0 +1,11 @@
+nohup: ignoring input
+[auth] seed OK: admin@pravartya.com
+[auth] seed OK: clinician@pravartya.com
+[auth] seed OK: designer@pravartya.com
+[auth] seed OK: fabricator@pravartya.com
+INFO:     Started server process [93608]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
